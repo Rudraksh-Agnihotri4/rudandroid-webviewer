@@ -1,0 +1,21 @@
+# Android/Java
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+
+# NDK/CMake
+CMakeFiles/
+CMakeCache.txt
+*.so
+
+# Node
+node_modules
+dist
+/web/dist
+
+# OS
+.DS_Store
