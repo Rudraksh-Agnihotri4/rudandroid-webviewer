@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.sharan.rnd_opencv_viewer"
+    namespace = "com.rudraksh.edgeviwerr"
     compileSdk {
         version = release(36)
     }
